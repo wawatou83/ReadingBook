@@ -1,0 +1,4 @@
+php-5.2.6-win32-installer
+注意安装过程中要指定apache的conf路径
+写php脚本要用gvim写，然后保存为.php
+而不是新建txt文本再命名为.php
